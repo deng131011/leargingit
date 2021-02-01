@@ -1,0 +1,22 @@
+Appad             app启动页和登录广告模块
+Adpositon         广告位模块
+Ad                广告模块
+Producttype       商品分类模块
+
+
+
+
+
+
+
+
+
+
+
+//表名
+
+qyc_app_startad     app启动广告表
+qyc_app_loginad     app登录广告表
+qyc_ad_positon      广告位
+qyc_ad              广告列表
+qyc_producttype     商品分类表
